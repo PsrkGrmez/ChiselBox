@@ -6,7 +6,10 @@
 
 
 Safe way to use V2ray Banned ip Configs Using Chisel Library. <br>
-Credit : [Chisel Github](https://github.com/jpillora/chisel)
+Credit : [Chisel Github](https://github.com/jpillora/chisel) <br>
+
+Also you can build the .aar library from this repository: <br>
+LibXray + Chisel : [Lib2Chisel](https://github.com/PsrkGrmez/lib2chisel) <br>
 
 <img src="https://github.com/PsrkGrmez/ChiselBox/assets/160428781/6d105ecc-d1a8-4861-832c-c91b69ae8685" width="200">
 
