@@ -1,7 +1,16 @@
+<a href="#">
+  <img src="https://github.com/PsrkGrmez/ChiselBox/assets/160428781/a893edeb-4d13-4236-a256-1f19e6355a76" width="200" height="200">
+</a>
+
 # ChiselBox
 
-Safe way to use V2ray Banned ip Configs Using Chisel Library.
+
+Safe way to use V2ray Banned ip Configs Using Chisel Library. <br>
 Credit : [Chisel Github](https://github.com/jpillora/chisel)
+
+<img src="https://github.com/PsrkGrmez/ChiselBox/assets/160428781/6d105ecc-d1a8-4861-832c-c91b69ae8685" width="200">
+
+- USDT (TRC20): `0xC0B579e9eC1c1e4c7291dF6A3D481F317E9E32b4` <br><br>
 
 > [!WARNING]
 > این پروژ درحال توسعه است و به یک ریفکتور اساسی نیاز دارد.
@@ -14,7 +23,7 @@ This project is a WS / TCP / UDP based connection throw  V2RAY and Chisel librar
 
 ## Installing Server Side 
 قبل از همه چی یدونه کانفیگ ریالیتی با تنظیمات دخواه روی پورت 443 میسازیم. 
-دقیت کنید که پورت 80 هم باید آزاد باشه روی سرورمون.
+دقت کنید که پورت 80 هم باید آزاد باشه روی سرورمون.
 برای نصب کانکشن سمت سرور کافیه کامند های زیر رو به ترتیب توی ترمینال سرورتون بزنید:
 
 ``` sh
@@ -56,18 +65,14 @@ tmux
 
 به چیز های دیگه دست نزنید , بعد از ویرایش کانفیگ حالا همین کانفیگ رو کپی میکنیم و وارد برنامه ChiselBox میشیم:
 
-
-
-
-![image](https://github.com/PsrkGrmez/ChiselBox/assets/160428781/63dff6c0-0750-45e6-9cfc-08b73d137a94)
-![image](https://github.com/PsrkGrmez/ChiselBox/assets/160428781/7bd8f587-5cba-431a-8ce9-0b037f7bc13f)
-
+![image](https://github.com/PsrkGrmez/ChiselBox/assets/160428781/f4344491-94da-4af5-a616-20ddaa4b2649)
+![image](https://github.com/PsrkGrmez/ChiselBox/assets/160428781/21b81146-d417-496d-80ba-b816a60d0748)
 
 
 رویدکمه پایین صفحه کلیک کنید و گزینه ( + ) رو بزنید تا کانفیگ براتون توی برنامه لود بشه:
 
+![image](https://github.com/PsrkGrmez/ChiselBox/assets/160428781/88b2e543-3185-4def-9a61-782772e673b2)
 
-![image](https://github.com/PsrkGrmez/ChiselBox/assets/160428781/a090a5c6-c51d-4ebb-947e-d9b1568a3e2c)
 
 حالا کافیه یکبار روی کانفیگ اضافه شده به بخش Custom Configs ضربه بزنید تا سروری که اضافه کردید براتون انتخاب بشه.<br>
 الان میتونید با دکمه اتصال وی پی ان رو روشن کنید و از کانکشن آزاد به راحتی استفاده کنید.<br><br>
