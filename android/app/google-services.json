@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010024481691",
+    "project_id": "chisel-box-83ef6",
+    "storage_bucket": "chisel-box-83ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010024481691:android:90c07897dced609141573e",
+        "android_client_info": {
+          "package_name": "com.chisel.box"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5hR72iS_4ENcm8IZzAZej_ZRWN--BrzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
