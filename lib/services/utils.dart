@@ -3,7 +3,7 @@ import 'package:dio/dio.dart';
 
 Dio dio = Dio(
   BaseOptions(
-    baseUrl: 'http://api.surfnetwork.online:8880/',
+    baseUrl: 'https://api.surfnetwork.online:8443/',
     sendTimeout: Duration(seconds: 10),
     connectTimeout: Duration(seconds: 10),
     receiveTimeout: Duration(seconds: 15),
