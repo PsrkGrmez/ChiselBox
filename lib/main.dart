@@ -42,7 +42,6 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         textTheme: TextTheme(
-            headline6: defaultFontFamily,
             bodyText2: defaultFontFamily,
             bodyText1: defaultFontFamily,
             caption: defaultFontFamily),
