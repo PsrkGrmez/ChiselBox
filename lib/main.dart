@@ -40,14 +40,6 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       title: 'ChiselBox',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        textTheme: TextTheme(
-            bodyText2: defaultFontFamily,
-            bodyText1: defaultFontFamily,
-            caption: defaultFontFamily),
-        colorScheme: ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 28, 100, 184)),
-        useMaterial3: true,
-      ),
       home: HomeScreen() ,
     );
   }
